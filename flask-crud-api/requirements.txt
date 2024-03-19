@@ -1,0 +1,3 @@
+flask
+pyscopg2-binary
+Flask-SQLAlchemy
