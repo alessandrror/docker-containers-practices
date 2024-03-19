@@ -1,6 +1,9 @@
 # User Registration API
 
-This repository contains an API for user registration written in **[Rust](https://www.rust-lang.org/)** using a database in [PostgreSQL](https://www.postgresql.org/).
+This repository has some docker containers to share practices projects!
+
+`rust-crud-api`
+This folder contains an API for user registration written in **[Rust](https://www.rust-lang.org/)** using a database in [PostgreSQL](https://www.postgresql.org/).
 
 It is using **[Docker](https://www.docker.com/)** to isolate the resources and make it easy to run it on any device with any OS. The main content is allocated inside the `src` folder.
 
